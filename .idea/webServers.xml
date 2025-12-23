@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="46b782d3-07f1-4a22-9199-898969ae225d" name="vis-b812">
+        <fileTransfer accessType="SFTP" host="219.228.149.24" port="22" sshConfigId="dce8402e-a8af-4837-8b98-a763cf8736ad" sshConfig="whb@219.228.149.24:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="38aa93d7-1e91-4f24-b233-74528c2d2085" name="vis-lia6000">
+        <fileTransfer accessType="SFTP" host="219.228.149.24" port="22" sshConfigId="dce8402e-a8af-4837-8b98-a763cf8736ad" sshConfig="whb@219.228.149.24:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
